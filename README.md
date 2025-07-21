@@ -134,5 +134,5 @@ If you have any questions or want to connect:
 
 - 📧 Email: [your.email@example.com](mailto:your.email@example.com)
 - 🌐 GitHub: [your-username](https://github.com/your-username)
-- 🔗 LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)
+- 🔗 LinkedIn: [YASHPAL](www.linkedin.com/in/yash-pal-since2004)
 
