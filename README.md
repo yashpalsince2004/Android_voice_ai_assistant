@@ -134,5 +134,5 @@ If you have any questions or want to connect:
 
 - 📧 Email: [2004yashpal@gmail.com](mailto:2004yashpal@gmail.com)
 - 🌐 GitHub: [yashpalsince2004](https://github.com/yashpalsince2004)
-- 🔗 LinkedIn: [YASH PAL](wwww.linkedin.com/in/yash-pal-since2004)
+- 🔗 LinkedIn: [YASH PAL](https://www.linkedin.com/in/yash-pal-since2004/)
 
