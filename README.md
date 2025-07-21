@@ -132,7 +132,7 @@ Engineering Student — Computer Science (AI & ML)
 
 If you have any questions or want to connect:
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 GitHub: [your-username](https://github.com/your-username)
-- 🔗 LinkedIn: [YASHPAL](www.linkedin.com/in/yash-pal-since2004)
+- 📧 Email: [2004yashpal@gmail.com](mailto:2004yashpal@gmail.com)
+- 🌐 GitHub: [yashpalsince2004](https://github.com/yashpalsince2004)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)
 
